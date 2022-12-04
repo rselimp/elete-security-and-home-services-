@@ -1,0 +1,33 @@
+.logo-nav-left {
+    float: left;
+    border-top:none;
+    margin: 1em 0 0;
+    padding: 10px 20px 10px;
+    text-align: center;
+    border: 5px inset #febf00;
+    height:50px;
+    width: 240px;
+   
+}
+
+.logo-nav-left h1 a {
+    font-size: 30px;
+    color: #031f9a;
+    text-transform: uppercase;
+    display: block;
+    text-decoration: none;
+    font-family: 'Noto Serif', serif;
+}
+
+span.logo-title {
+    display: block;
+    letter-spacing: 2px;
+    font-size: 13px;
+    margin-top: 0px;
+    font-weight: 600;
+    color: #031f9a;
+    text-transform: uppercase;
+}
+
+
+
